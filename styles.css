@@ -1,0 +1,16 @@
+body{
+    background: linear-gradient(to right, rgb(173, 83, 137), rgb(60, 16, 83));
+    
+}
+div{
+    display: inline;
+}
+
+.TicTacToe{
+    width: 500px;
+    height: 500px;
+}
+.Snake{
+    width: 500px;
+    height: 500px;
+}
