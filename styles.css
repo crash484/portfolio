@@ -32,8 +32,8 @@ height: 500px;
 
 
 video{
-    height: 300px;
-    width: 500px;
+    height: 100%;
+    width: 100%;
     margin: 0px;
     padding: 0px;
 }
@@ -44,7 +44,7 @@ video{
     height: 300px;
     display: inline-block;
     position: relative;
-    bottom: 73px;
+    bottom:75px;
 }
 
 .empREST{
