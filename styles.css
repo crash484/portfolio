@@ -1,16 +1,66 @@
 body{
-    background: linear-gradient(to right, rgb(173, 83, 137), rgb(60, 16, 83));
-    
-}
-div{
-    display: inline;
+    background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
 }
 
-.TicTacToe{
+
+
+.Snake,.TicTacToe,.render{
+    display: inline-block;
+    height: 500px;
+    width: 490px;
+}
+
+.renderSC{
+    
+height: 500px;
+}
+
+
+
+.TicTacToeSC{
     width: 500px;
     height: 500px;
 }
-.Snake{
+.SnakeSC{
     width: 500px;
     height: 500px;
+}
+
+
+
+
+
+
+video{
+    height: 300px;
+    width: 500px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.to-do-application{
+    
+    width: 500px;
+    height: 300px;
+    display: inline-block;
+    position: relative;
+    bottom: 73px;
+}
+
+.empREST{
+    width: 500px;
+    height: 300px;
+    display:inline-block;
+    position: relative;
+    bottom: 75px;
+}
+
+
+
+.aboutme{
+    display: inline;
+    margin-left: 720px;
+}
+.owner{
+    text-align: center;
 }
